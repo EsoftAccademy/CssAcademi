@@ -1,0 +1,61 @@
+.navbar-text-content{
+    font-size: 22px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.navbar-text-content span{
+    color: chartreuse;
+}
+.nav-content-list{
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #ebebeb;
+}
+/*------------End nav section-----------*/
+.carousel-item{
+    height: 600px;
+}
+.carousel-item img{
+    object-fit: cover;
+}
+.carousel-caption{
+    bottom: 30%;
+}
+.carousel .overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 100;
+}
+.carousel-control-prev, .carousel-control-prev-icon, .carousel-control-next, .carousel-caption {
+    z-index: 100;
+}
+/*----------------*/
+.content-boxes img{
+    max-width: 120px;
+}
+.content-boxes{
+    border: 1px solid #ebebeb;
+    padding: 10px;
+    border-radius: 10px;
+}
+.team-conten-text img{
+    height: 250px;
+}
+/*******footer*********/
+.footer-text{
+    color: #fff;
+}
+.copy-section{
+    border-top: 1px solid #484141;
+}
+.copy-section p{
+    color: #fff;
+}
+.footer-text-item{
+    font-size: 25px;
+    padding: 3px 5px;
+    margin-right: 10px;
+}
